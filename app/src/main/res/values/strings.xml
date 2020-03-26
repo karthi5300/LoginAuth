@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">Login Authentication</string>
+
+<string name="user_name">edureka</string>
+<string name="pass_word">edureka123</string>
+
+<string name="message">MESSAGE</string>
+<string name="success">Success</string>
+<string name="username_not_found">Username not found</string>
+<string name="incorrect_password">Incorrect Password</string>
+
+</resources>
